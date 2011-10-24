@@ -1,11 +1,9 @@
 <Query Kind="Statements">
-  <Reference Relative="..\References\System.Reactive.dll">System.Reactive.dll</Reference>
-  <Reference Relative="..\References\Microsoft.Reactive.Testing.dll">Microsoft.Reactive.Testing.dll</Reference>
-  <Reference Relative="..\References\RxBookLinqpadHelper.dll">RxBookLinqpadHelper.dll</Reference>
+  <Reference Relative="..\References\System.Reactive.dll">..\References\System.Reactive.dll</Reference>
+  <Reference Relative="..\References\Microsoft.Reactive.Testing.dll">..\References\Microsoft.Reactive.Testing.dll</Reference>
   <Namespace>System.Reactive</Namespace>
   <Namespace>System.Reactive.Linq</Namespace>
   <Namespace>Microsoft.Reactive.Testing</Namespace>
-  <Namespace>RxBookLinqpadHelper</Namespace>
 </Query>
 
 List<int> ints = new List<int>() 
