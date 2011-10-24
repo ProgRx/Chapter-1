@@ -78,22 +78,4 @@ task.First();
 
 Console.WriteLine("We're Finished!");
 
-
-/* Create 1:
- *
- * Observable.Create works like a one-off Subject
- */
-
-// TODO
-
-
-/* CreateWithDisposable 1:
- *
- * Observable.CreateWithDisposable works like a one-off Subject
- */
-
-// TODO
-
-
-
 // vim: ts=4 sw=4 tw=80 et :
