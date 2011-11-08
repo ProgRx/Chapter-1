@@ -1,9 +1,7 @@
 <Query Kind="Statements">
-  <Reference Relative="..\References\System.Reactive.dll">..\References\System.Reactive.dll</Reference>
-  <Reference Relative="..\References\Microsoft.Reactive.Testing.dll">..\References\Microsoft.Reactive.Testing.dll</Reference>
+  <Reference>&lt;ApplicationData&gt;\LINQPad\Samples\Programming Reactive Extensions and LINQ\System.Reactive.dll</Reference>
   <Namespace>System.Reactive</Namespace>
   <Namespace>System.Reactive.Linq</Namespace>
-  <Namespace>Microsoft.Reactive.Testing</Namespace>
 </Query>
 
 /* Return 2:
